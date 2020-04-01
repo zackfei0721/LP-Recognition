@@ -3,6 +3,8 @@ The project is based on CNN algorithm, including license plates detection, chara
 
 Detection program is based on Yolo, which is a mature open source Object-detection system. If you are interested, please visit:https://pjreddie.com/darknet/yolo/
 
+Character segmentation and recognition programs are both based on training.
+
 Testdata.rar includes 100 images that I used to test the project. The result folder shows all detected license plates from the 100 images.
 
 To make the project work, you need the training model of license plates detection program. 
